@@ -1,1 +1,1 @@
-A simple course scheduler app.
+An intuitive course scheduler application using Java Swing and Derby databases.
